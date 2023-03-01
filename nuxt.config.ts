@@ -22,6 +22,8 @@ export default defineNuxtConfig({
 
     // Doc: https://github.com/nuxt-modules/icon
     "nuxt-icon",
+
+    "@nuxthq/studio"
   ],
 
   /**
